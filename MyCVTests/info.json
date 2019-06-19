@@ -1,0 +1,81 @@
+{
+    "firstName": "Ángel",
+    "lastName": "Vázquez",
+    "age": 22,
+    "city": "Mexico City",
+    "languages": [
+        {
+            "name": "Spanish",
+            "level": "native"
+        },
+        {
+            "name": "English",
+            "level": "intermediate"
+        },
+        {
+            "name": "Japanese",
+            "level": "basic"
+        }
+    ],
+    "programmingLanguages": [
+        {
+            "name": "Swift",
+            "duration": "3 years"
+        },
+        {
+            "name": "C++",
+            "duration": "1 year"
+        },
+        {
+            "name": "C#",
+            "duration": "1 year"
+        },
+        {
+            "name": "Java",
+            "duration": "8 months"
+        },
+        {
+            "name": "Kotlin",
+            "duration": "2 months"
+        },
+        {
+            "name": "Objective-C",
+            "duration": "2 months"
+        },
+        {
+            "name": "JavaScript",
+            "duration": "2 months"
+        }
+    ],
+    "summary": "Mobile developer mainly focused on Apple iOS devices. He has a solid theoretical and practical knowledge of the Swift language and several frameworks such as UIKit, SpriteKit, ARKit, CoreGraphics, CoreImage and many more. He is constantly studying and learning new technologies.",
+    "workExperience": [
+        {
+            "name": "PROTECO",
+            "startDate": "08/2017",
+            "endDate": "03/2019",
+            "role": "intern",
+            "description": "Prepared and instructed iOS development courses using the Swift language. Helped with instructing Android development courses using the Java and Kotlin programming languages. Also served a minor role with helping with Arduino, C# and Relational Database courses."
+        },
+        {
+            "name": "Coordinación de Titulación",
+            "role": "social service work",
+            "startDate": "02/2018",
+            "endDate": "12/2018",
+            "description": "Helped with updating and maintenance of the website of the dependency using web technologies such as HTML5, CSS3 and Bootstrap 4."
+        },
+        {
+            "name": "Globant",
+            "role": "iOS Developer",
+            "startDate": "04/2019",
+            "description": "Analysis, design, implementation and maintenance of software modules using Swift and Objective-C."
+        }
+    ],
+    "education": [
+        {
+            "name": "Facultad de Ingeniería",
+            "degree": "Computer Engineer",
+            "startDate": "08/2014",
+            "endDate": "12/2018"
+        }
+    ]
+}

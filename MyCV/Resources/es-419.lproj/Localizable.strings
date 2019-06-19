@@ -1,0 +1,27 @@
+
+/* A date from calendars */
+"Date:" = "Fecha:";
+
+/* School degree */
+"Degree:" = "Grado:";
+
+/* Without connection to the internet */
+"Disconnected" = "Desconectado";
+
+/* Something went wrong */
+"Error" = "Ocurrió un error.";
+
+/* Already done */
+"Finished" = "Terminado";
+
+/* Stationary */
+"Idle" = "Detenido";
+
+/* Currently doing something */
+"In progress" = "En progreso";
+
+/* A name */
+"Name:" = "Nombre:";
+
+/* What someone does */
+"Role:" = "Rol:";

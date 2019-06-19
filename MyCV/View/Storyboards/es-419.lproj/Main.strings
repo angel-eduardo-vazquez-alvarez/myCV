@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Summary 📃"; ObjectID = "0wV-cy-st2"; */
+"0wV-cy-st2.text" = "Resumen 📃";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4TJ-aV-omM"; */
+"4TJ-aV-omM.text" = "Label";
+
+/* Class = "UILabel"; text = "Languages 🌏"; ObjectID = "6ZT-Or-zfT"; */
+"6ZT-Or-zfT.text" = "Idiomas 🌏";
+
+/* Class = "UILabel"; text = "Programming 🖥"; ObjectID = "8fe-DV-IdT"; */
+"8fe-DV-IdT.text" = "Programación 🖥";
+
+/* Class = "UILabel"; text = "Fetching data from the web!"; ObjectID = "9Ol-dO-GTs"; */
+"9Ol-dO-GTs.text" = "¡Descargando datos de Internet!";
+
+/* Class = "UILabel"; text = "Not connected to the Internet"; ObjectID = "AKP-Yq-xcC"; */
+"AKP-Yq-xcC.text" = "No conectado a Internet";
+
+/* Class = "UILabel"; text = "Location, Country"; ObjectID = "BXj-fG-0yk"; */
+"BXj-fG-0yk.text" = "Localización, País";
+
+/* Class = "UILabel"; text = "Education 🎓"; ObjectID = "C7K-xm-Kem"; */
+"C7K-xm-Kem.text" = "Educación 🎓";
+
+/* Class = "UILabel"; text = "999"; ObjectID = "DLJ-RU-QQj"; */
+"DLJ-RU-QQj.text" = "999";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I96-t4-Obr"; */
+"I96-t4-Obr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M59-iG-l8J"; */
+"M59-iG-l8J.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OJ5-3R-MVM"; */
+"OJ5-3R-MVM.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Psw-bW-4iM"; */
+"Psw-bW-4iM.text" = "Label";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n"; ObjectID = "RpF-mA-QnQ"; */
+"RpF-mA-QnQ.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f4Y-cT-pCs"; */
+"f4Y-cT-pCs.text" = "Label";
+
+/* Class = "UILabel"; text = "Work 💼"; ObjectID = "nhD-Ts-BWm"; */
+"nhD-Ts-BWm.text" = "Trabajo 💼";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "o13-MM-J0p"; */
+"o13-MM-J0p.normalTitle" = "Reintentar";
+
+/* Class = "UILabel"; text = "FirstName LastName"; ObjectID = "qHO-ht-bU9"; */
+"qHO-ht-bU9.text" = "Nombre Apellido";
+
+/* Class = "UILabel"; text = "Location:"; ObjectID = "tSq-kL-hPZ"; */
+"tSq-kL-hPZ.text" = "Ubicación:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u2U-zE-qku"; */
+"u2U-zE-qku.text" = "Label";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "xWY-EW-2JA"; */
+"xWY-EW-2JA.text" = "Edad:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ztc-Kn-1Yg"; */
+"ztc-Kn-1Yg.text" = "Label";
